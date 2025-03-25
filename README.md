@@ -37,10 +37,6 @@ Welcome to **BookWorld**, an online platform designed for book lovers to explore
 4. Make your changes and commit.
 5. Push to your branch and create a pull request.
 
-## 📫 Connect with Me
-- ✉️ Email: [Your Email]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
 
 Happy coding! 🚀
 
